@@ -31,13 +31,26 @@ catch-all for anything personal — a wedding is a Hangout, not Life Time.
 
 ## Title conventions
 
-- Short. Under 60 characters. No filler like "Quick" or "Sync up".
-- Calls with a counterparty use "Call — Party".
-- Work blocks use "Area: Task". Example: Ads: rebuild immigration creative
-- Personal blocks stay casual and plain. "gym", "dinner w/ Sara", "haircut".
-  Do NOT make personal blocks sound corporate.
-- Fix obvious duplication. "Anna's birthday's birthday" becomes "Anna's birthday".
-- Never invent a name, company, figure, or detail not in my input.
+Every title follows: `Category: Descriptive Title — Duration`
+
+- Category is the taxonomy label, written out in full.
+- Descriptive Title is Title Case, specific, under 40 characters.
+- Duration uses an em dash and reads naturally: "30 Minutes", "1 Hour",
+  "2 Hours", "All Day".
+
+Examples:
+- go for run                    -> Workout: Morning Run — 30 Minutes
+- call w john re ramirez        -> Call: Ramirez Follow-Up — 45 Minutes
+- wrk on ads                    -> Work Time Block: Ad Creative — 2 Hours
+- Sebastians wedding            -> Event: Sebastian's Wedding — All Day
+- lunch                         -> Meal Break: Lunch — 1 Hour
+- gym                           -> Workout: Gym Session — 1 Hour
+
+Apply this to every event, work and personal alike. Consistency across the
+whole calendar is the goal.
+
+If a title already matches this format exactly, return it unchanged.
+Never invent a name, company, figure, or detail not in my input.
 
 ## Recurring blocks
 
