@@ -1,4 +1,3 @@
-
 # Calendar context brain
 
 Rewritten automatically every Sunday. Edit by hand any time — the groom reads
@@ -13,16 +12,16 @@ personal blocks as less important or try to make them sound professional.
 ## Category definitions
 
 - Plan the next day — end-of-day planning, review, tomorrow prep, weekly review.
-- Call — any scheduled call or meeting with another person, work or personal.
+- Call — any scheduled call or meeting with another person, work or personal, office hours, follow-up calls.
 - Workout — gym, lifting, running, sports, physical training.
-- Content Creation — filming, editing, writing posts, scripting, shooting.
-- Self Care — grooming, therapy, meditation, laundry, errands, rest.
+- Content Creation — filming, editing, writing posts, scripting, shooting, drafting social media content (e.g., LinkedIn).
+- Self Care — grooming, therapy, meditation, laundry, errands, rest, personal admin, insurance claims, personal communication.
 - Hangout — social time with friends, dinners, parties, weddings, birthdays,
   going out.
-- Transit time — driving, flights, commutes, rides, travel between places.
+- Transit time — driving, flights, commutes, rides, travel between places (e.g., Doha, Dhaka).
 - Meal Break — meals, food, coffee, when eating IS the block.
 - Mental Exercise/Instrument — reading, studying, practice, instrument, language.
-- Work Time Block — focused work on the business. Building, ads, ops, admin.
+- Work Time Block — focused work on the business. Building, ads, ops, admin, system tasks, tool management, job applications, reviewing software, testing, resume tasks, human capital.
 - Life Time — unstructured personal time, buffer, open blocks, nothing planned.
 
 If a block could be two things, pick the one describing what I will
@@ -54,19 +53,32 @@ Never invent a name, company, figure, or detail not in my input.
 
 ## Recurring blocks
 
-- (populated automatically from series that keep appearing)
-
 ## People
 
-- (populated automatically from recurring attendees)
+- Roman
+- Kiernan Moran
+- Jerry
+- William
+- Shailesh
+- mmmaherhasan@gmail.com
+- kiernanmoran@icloud.com
+- jerry.ffl@yahoo.com
+- challenge-advisors@breakthroughtech.org
 
 ## Firms and accounts
 
-- (populated automatically from recurring work counterparties)
+- Geico
+- Outcast
+- Break Through Tech
+- PearX
+- Founder's Inc
 
 ## Vendors and tools
 
-- (so "twilio call" reads as a work call, not a client call)
+- prow
+- Zapier
+- LinkedIn
+- calendar script
 
 ## Shorthand I use
 
