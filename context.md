@@ -53,37 +53,56 @@ Never invent a name, company, figure, or detail not in my input.
 
 ## Recurring blocks
 
+- Calls with Shailesh
+- Flights (travel)
+- Meal Breaks (Breakfast, Lunch)
+
 ## People
 
-- Roman
-- Kiernan Moran
-- Jerry
-- William
 - Shailesh
 - mmmaherhasan@gmail.com
-- kiernanmoran@icloud.com
-- jerry.ffl@yahoo.com
-- challenge-advisors@breakthroughtech.org
+- maherhammmaherhasan@gmail.com
+- Daniel Naderi
+- naderidanielbusiness@gmail.com
+- Simon Tisminezky
+- simon@tryalma.ai
+- Nihal
+- nihal@whop.com
+- Susie
+- Nelson
+- Sebastian
 
 ## Firms and accounts
 
 - Geico
-- Outcast
-- Break Through Tech
-- PearX
-- Founder's Inc
+- Govia Systems
+- Credible Law
+- Alma
+- Whop
+- Cal.com
+- HubSpot
+- KPMG
+- Biointerphase
+- Verizon
+- Allstate
+- Estee
+- Ursa Space
+- Accenture
+- Microsoft
+- Pimco
+- Wyndham
 
 ## Vendors and tools
 
-- prow
-- Zapier
 - LinkedIn
-- calendar script
+- AI Studio Coach
 
 ## Shorthand I use
 
 - PI = personal injury. WC = workers comp.
 - MVA = motor vehicle accident.
+- HC = Human Capital
+- GTM = Go-To-Market
 
 ## Do not touch
 
