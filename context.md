@@ -12,16 +12,16 @@ personal blocks as less important or try to make them sound professional.
 ## Category definitions
 
 - Plan the next day — end-of-day planning, review, tomorrow prep, weekly review.
-- Call — any scheduled call or meeting with another person, work or personal, office hours, follow-up calls.
+- Call — any scheduled call or meeting with another person, work or personal, office hours, follow-up calls, 1-1.
 - Workout — gym, lifting, running, sports, physical training.
 - Content Creation — filming, editing, writing posts, scripting, shooting, drafting social media content (e.g., LinkedIn).
-- Self Care — grooming, therapy, meditation, laundry, errands, rest, personal admin, insurance claims, personal communication.
+- Self Care — grooming, therapy, meditation, laundry, errands, rest, personal admin, insurance claims, personal communication, dentist.
 - Hangout — social time with friends, dinners, parties, weddings, birthdays,
   going out.
 - Transit time — driving, flights, commutes, rides, travel between places (e.g., Doha, Dhaka).
 - Meal Break — meals, food, coffee, when eating IS the block.
 - Mental Exercise/Instrument — reading, studying, practice, instrument, language.
-- Work Time Block — focused work on the business. Building, ads, ops, admin, system tasks, tool management, job applications, reviewing software, testing, resume tasks, human capital.
+- Work Time Block — focused work on the business. Building, ads, ops, admin, system tasks, tool management, job applications, reviewing software, testing, resume tasks, human capital, Govia Systems work, engineering vision, GitHub, Linear.
 - Life Time — unstructured personal time, buffer, open blocks, nothing planned.
 
 If a block could be two things, pick the one describing what I will
@@ -54,48 +54,31 @@ Never invent a name, company, figure, or detail not in my input.
 ## Recurring blocks
 
 - Calls with Shailesh
-- Flights (travel)
 - Meal Breaks (Breakfast, Lunch)
+- Dentist Appointments
+- Govia Systems Work
+- LinkedIn Content Creation
 
 ## People
 
 - Shailesh
 - mmmaherhasan@gmail.com
-- maherhammmaherhasan@gmail.com
-- Daniel Naderi
-- naderidanielbusiness@gmail.com
-- Simon Tisminezky
-- simon@tryalma.ai
-- Nihal
-- nihal@whop.com
+- Deanna
+- deanna.dimonte@breakthroughtech.org
+- Anna
 - Susie
-- Nelson
 - Sebastian
 
 ## Firms and accounts
 
-- Geico
 - Govia Systems
-- Credible Law
-- Alma
-- Whop
-- Cal.com
-- HubSpot
-- KPMG
-- Biointerphase
-- Verizon
-- Allstate
-- Estee
-- Ursa Space
-- Accenture
-- Microsoft
-- Pimco
-- Wyndham
+- Breakthrough Tech
 
 ## Vendors and tools
 
 - LinkedIn
-- AI Studio Coach
+- GitHub
+- Linear
 
 ## Shorthand I use
 
