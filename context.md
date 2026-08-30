@@ -44,6 +44,8 @@ Examples:
 - Sebastians wedding            -> Event: Sebastian's Wedding — All Day
 - lunch                         -> Meal Break: Lunch — 1 Hour
 - gym                           -> Workout: Gym Session — 1 Hour
+- Finish the set                -> Workout: Finish the Set — 30 Minutes
+- Tuesday 2-5 pm ET Bridge to Studio [Meet your Team] -> Call: Meet Your Team Bridge to Studio — 3 Hours
 
 Apply this to every event, work and personal alike. Consistency across the
 whole calendar is the goal.
@@ -53,39 +55,75 @@ Never invent a name, company, figure, or detail not in my input.
 
 ## Recurring blocks
 
-- Calls with Shailesh
 - Meal Breaks (Breakfast, Lunch)
-- Dentist Appointments
 - Govia Systems Work
 - LinkedIn Content Creation
 
 ## People
 
-- Shailesh
 - mmmaherhasan@gmail.com
-- Deanna
-- deanna.dimonte@breakthroughtech.org
-- Anna
 - Susie
-- Sebastian
+- jerry.ffl@yahoo.com
+- tate.arevalo@accenture.com
+- toby.sheung@verizon.com
+- caroline.virani@breakthroughtech.org
+- dhananjaya.ramachandra@verizon.com
+- along@biointerphase.com
+- goyal3vikas@gmail.com
+- abhinavraghunathan@kpmg.com
+- lsaldana@estee.com
+- krystal.smuda@allstate.com
+- nicholas.lavigne@ursaspace.com
+- bucknejo@oregonstate.edu
+- jccookjr@gmail.com
+- atatterson@kpmg.com
+- julie@swytch.careers
+- samuel.ogah@zicloudtech.com
+- nrp.neha@gmail.com
+- gel53@cornell.edu
+- parthrana34@gmail.com
+- lculbertson@kpmg.com
+- sebastian.avery@accenture.com
+- simon.fan@pimco.com
+- ji.zhang@pimco.com
+- nancy.zhang@allstate.com
+- mmaksin@biointerphase.com
+- aartidwivedi@microsoft.com
+- seema.yadav@wyndham.com
+- danielle.golinski@wyndham.com
+- Aaron
+- Nicole
 
 ## Firms and accounts
 
 - Govia Systems
 - Breakthrough Tech
+- Accenture
+- Verizon
+- Biointerphase
+- KPMG
+- Estee
+- Allstate
+- Ursa Space
+- Oregon State
+- Swytch Careers
+- Zicloudtech
+- Cornell
+- PIMCO
+- Microsoft
+- Wyndham
 
 ## Vendors and tools
 
 - LinkedIn
-- GitHub
-- Linear
+- Kafka Streams
+- Omni
 
 ## Shorthand I use
 
-- PI = personal injury. WC = workers comp.
-- MVA = motor vehicle accident.
 - HC = Human Capital
-- GTM = Go-To-Market
+- IG
+- ET
 
 ## Do not touch
 
