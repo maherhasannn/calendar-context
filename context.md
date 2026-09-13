@@ -17,7 +17,7 @@ personal blocks as less important or try to make them sound professional.
 - Content Creation — filming, editing, writing posts, scripting, shooting, drafting social media content (e.g., LinkedIn).
 - Self Care — grooming, therapy, meditation, laundry, errands, rest, personal admin, insurance claims, personal communication, dentist.
 - Hangout — social time with friends, dinners, parties, weddings, birthdays,
-  going out.
+  going out, trips, vacations, Top Golf, accommodation.
 - Transit time — driving, flights, commutes, rides, travel between places (e.g., Doha, Dhaka).
 - Meal Break — meals, food, coffee, when eating IS the block.
 - Mental Exercise/Instrument — reading, studying, practice, instrument, language.
@@ -46,6 +46,8 @@ Examples:
 - gym                           -> Workout: Gym Session — 1 Hour
 - Finish the set                -> Workout: Finish the Set — 30 Minutes
 - Tuesday 2-5 pm ET Bridge to Studio [Meet your Team] -> Call: Meet Your Team Bridge to Studio — 3 Hours
+- Madhav                        -> Call: Madhav — Duration
+- Elwin                         -> Call: Elwin — Duration
 
 Apply this to every event, work and personal alike. Consistency across the
 whole calendar is the goal.
@@ -62,67 +64,23 @@ Never invent a name, company, figure, or detail not in my input.
 ## People
 
 - mmmaherhasan@gmail.com
-- Susie
-- jerry.ffl@yahoo.com
-- tate.arevalo@accenture.com
-- toby.sheung@verizon.com
-- caroline.virani@breakthroughtech.org
-- dhananjaya.ramachandra@verizon.com
-- along@biointerphase.com
-- goyal3vikas@gmail.com
-- abhinavraghunathan@kpmg.com
-- lsaldana@estee.com
-- krystal.smuda@allstate.com
-- nicholas.lavigne@ursaspace.com
-- bucknejo@oregonstate.edu
-- jccookjr@gmail.com
-- atatterson@kpmg.com
-- julie@swytch.careers
-- samuel.ogah@zicloudtech.com
-- nrp.neha@gmail.com
-- gel53@cornell.edu
-- parthrana34@gmail.com
-- lculbertson@kpmg.com
-- sebastian.avery@accenture.com
-- simon.fan@pimco.com
-- ji.zhang@pimco.com
-- nancy.zhang@allstate.com
-- mmaksin@biointerphase.com
-- aartidwivedi@microsoft.com
-- seema.yadav@wyndham.com
-- danielle.golinski@wyndham.com
-- Aaron
-- Nicole
+- Anish
+- Ashwin
+- Fiza
+- Madhav
+- Elwin
 
 ## Firms and accounts
 
 - Govia Systems
-- Breakthrough Tech
-- Accenture
-- Verizon
-- Biointerphase
-- KPMG
-- Estee
-- Allstate
-- Ursa Space
-- Oregon State
-- Swytch Careers
-- Zicloudtech
-- Cornell
-- PIMCO
-- Microsoft
-- Wyndham
 
 ## Vendors and tools
 
 - LinkedIn
-- Kafka Streams
-- Omni
 
 ## Shorthand I use
 
 - HC = Human Capital
-- IG
 - ET
 
 ## Do not touch
