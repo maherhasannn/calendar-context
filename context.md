@@ -41,13 +41,17 @@ Examples:
 - go for run                    -> Workout: Morning Run — 30 Minutes
 - call w john re ramirez        -> Call: Ramirez Follow-Up — 45 Minutes
 - wrk on ads                    -> Work Time Block: Ad Creative — 2 Hours
-- Sebastians wedding            -> Event: Sebastian's Wedding — All Day
+- Sebastians wedding            -> Hangout: Sebastian's Wedding — All Day
 - lunch                         -> Meal Break: Lunch — 1 Hour
 - gym                           -> Workout: Gym Session — 1 Hour
 - Finish the set                -> Workout: Finish the Set — 30 Minutes
 - Tuesday 2-5 pm ET Bridge to Studio [Meet your Team] -> Call: Meet Your Team Bridge to Studio — 3 Hours
 - Madhav                        -> Call: Madhav — Duration
 - Elwin                         -> Call: Elwin — Duration
+- Stay at Cozy Room, Full Kitchen, Hot Tub, Queen Bed -> Hangout: Stay at Cozy Room — All Day
+- September: CA Community of Practice Option #1 -> Call: CA Community of Practice — Duration
+- Chat between Ananya Chadha and maher -> Call: Chat with Ananya Chadha — Duration
+- Remembering Jackie -> Hangout: Remembering Jackie — Duration
 
 Apply this to every event, work and personal alike. Consistency across the
 whole calendar is the goal.
@@ -60,6 +64,7 @@ Never invent a name, company, figure, or detail not in my input.
 - Meal Breaks (Breakfast, Lunch)
 - Govia Systems Work
 - LinkedIn Content Creation
+- CA Community of Practice
 
 ## People
 
@@ -69,10 +74,19 @@ Never invent a name, company, figure, or detail not in my input.
 - Fiza
 - Madhav
 - Elwin
+- Caroline Virani
+- A. Tatterson
+- Nelson Granados
+- Ananya Chadha
+- Jackie
 
 ## Firms and accounts
 
 - Govia Systems
+- Breakthrough Tech
+- KPMG
+- Pepperdine University
+- Hypesonic
 
 ## Vendors and tools
 
@@ -82,6 +96,7 @@ Never invent a name, company, figure, or detail not in my input.
 
 - HC = Human Capital
 - ET
+- CA = Community Advisors
 
 ## Do not touch
 
