@@ -52,6 +52,11 @@ Examples:
 - September: CA Community of Practice Option #1 -> Call: CA Community of Practice — Duration
 - Chat between Ananya Chadha and maher -> Call: Chat with Ananya Chadha — Duration
 - Remembering Jackie -> Hangout: Remembering Jackie — Duration
+- Tues 2-5pm ET [Section A] - CA Team Meeting -> Call: CA Team Meeting — 3 Hours
+- IA Capital x Nationwide Happy Hour at ITC Vegas 2026 -> Hangout: IA Capital Happy Hour — Duration
+- InsurTech Association ITC Reception -> Hangout: InsurTech Reception — Duration
+- Follow up with scott from praxura -> Call: Scott Praxura Follow-Up — Duration
+- Stay at relaxing house offers a private room for your stay -> Hangout: Stay at Relaxing House — All Day
 
 Apply this to every event, work and personal alike. Consistency across the
 whole calendar is the goal.
@@ -65,6 +70,8 @@ Never invent a name, company, figure, or detail not in my input.
 - Govia Systems Work
 - LinkedIn Content Creation
 - CA Community of Practice
+- CA Team Meeting
+- Fix Vercel
 
 ## People
 
@@ -79,6 +86,35 @@ Never invent a name, company, figure, or detail not in my input.
 - Nelson Granados
 - Ananya Chadha
 - Jackie
+- Tate Arevalo
+- Toby Sheung
+- Dhananjaya Ramachandra
+- A. Long
+- Vikas Goyal
+- Abhinav Raghunathan
+- L. Saldana
+- Krystal Smuda
+- Nicholas Lavigne
+- J. Buckne
+- J.C. Cook Jr.
+- Julie
+- Samuel Ogah
+- Neha
+- G. El
+- Parth Rana
+- L. Culbertson
+- S.
+- Ari Krause
+- Sebastian Avery
+- Simon Fan
+- Ji Zhang
+- Nancy Zhang
+- M. Maksin
+- Aarti Dwivedi
+- Seema Yadav
+- Danielle Golinski
+- Scott
+- Doroth Kelly
 
 ## Firms and accounts
 
@@ -87,16 +123,38 @@ Never invent a name, company, figure, or detail not in my input.
 - KPMG
 - Pepperdine University
 - Hypesonic
+- Accenture
+- Verizon
+- Biointerphase
+- Estee
+- Allstate
+- Ursa Space
+- Oregon State
+- Swytch Careers
+- Zicloudtech
+- Hollywood Studios
+- Pimco
+- Microsoft
+- Wyndham
+- IA Capital
+- Nationwide
+- InsurTech Association
+- Praxura
+- KatRisk
 
 ## Vendors and tools
 
 - LinkedIn
+- Vercel
+- Groupon
 
 ## Shorthand I use
 
 - HC = Human Capital
 - ET
 - CA = Community Advisors
+- ITC Vegas
+- ITC = InsurTech Conference/Event
 
 ## Do not touch
 
