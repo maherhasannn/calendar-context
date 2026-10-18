@@ -57,6 +57,10 @@ Examples:
 - InsurTech Association ITC Reception -> Hangout: InsurTech Reception — Duration
 - Follow up with scott from praxura -> Call: Scott Praxura Follow-Up — Duration
 - Stay at relaxing house offers a private room for your stay -> Hangout: Stay at Relaxing House — All Day
+- Reservation at Il Borgo -> Meal Break: Il Borgo Reservation — Duration
+- Escorted Tour at The Grand -> Hangout: Escorted Tour at The Grand — Duration
+- Escorted Tour at 1190 Mission at Trinity Place -> Hangout: Escorted Tour at Trinity Place — Duration
+- Liudvikas's birthday -> Hangout: Liudvikas's Birthday — All Day
 
 Apply this to every event, work and personal alike. Consistency across the
 whole calendar is the goal.
@@ -72,6 +76,8 @@ Never invent a name, company, figure, or detail not in my input.
 - CA Community of Practice
 - CA Team Meeting
 - Fix Vercel
+- Workout: Gym Session
+- Self Care: Routine Tasks
 
 ## People
 
@@ -82,39 +88,43 @@ Never invent a name, company, figure, or detail not in my input.
 - Madhav
 - Elwin
 - Caroline Virani
-- A. Tatterson
+- A. Tatterson (atatterson@kpmg.com)
 - Nelson Granados
 - Ananya Chadha
 - Jackie
-- Tate Arevalo
-- Toby Sheung
-- Dhananjaya Ramachandra
-- A. Long
-- Vikas Goyal
-- Abhinav Raghunathan
-- L. Saldana
-- Krystal Smuda
-- Nicholas Lavigne
-- J. Buckne
-- J.C. Cook Jr.
-- Julie
-- Samuel Ogah
-- Neha
-- G. El
-- Parth Rana
-- L. Culbertson
-- S.
-- Ari Krause
-- Sebastian Avery
-- Simon Fan
-- Ji Zhang
-- Nancy Zhang
-- M. Maksin
-- Aarti Dwivedi
-- Seema Yadav
-- Danielle Golinski
+- Tate Arevalo (tate.arevalo@accenture.com)
+- Toby Sheung (toby.sheung@verizon.com)
+- Dhananjaya Ramachandra (dhananjaya.ramachandra@verizon.com)
+- A. Long (along@biointerphase.com)
+- Vikas Goyal (goyal3vikas@gmail.com)
+- Abhinav Raghunathan (abhinavraghunathan@kpmg.com)
+- L. Saldana (lsaldana@estee.com)
+- Krystal Smuda (krystal.smuda@allstate.com)
+- Nicholas Lavigne (nicholas.lavigne@ursaspace.com)
+- J. Buckne (bucknejo@oregonstate.edu)
+- J.C. Cook Jr. (jccookjr@gmail.com)
+- Julie (julie@swytch.careers)
+- Samuel Ogah (samuel.ogah@zicloudtech.com)
+- Neha (nrp.neha@gmail.com)
+- G. El (gel53@cornell.edu)
+- Parth Rana (parthrana34@gmail.com)
+- L. Culbertson (lculbertson@kpmg.com)
+- S. (s@hollywoodstudios.ai)
+- Ari Krause (arikrause@kpmg.com, krauseari@gmail.com)
+- Sebastian Avery (seb@theaverys.org.uk)
+- Simon Fan (simon.fan@pimco.com)
+- Ji Zhang (ji.zhang@pimco.com)
+- Nancy Zhang (nancy.zhang@allstate.com)
+- M. Maksin (mmaksin@biointerphase.com)
+- Aarti Dwivedi (aartidwivedi@microsoft.com)
+- Seema Yadav (seema.yadav@wyndham.com)
+- Danielle Golinski (danielle.golinski@wyndham.com)
 - Scott
 - Doroth Kelly
+- Chris C. (chrisc@theeinsteinbridge.com)
+- Emerson B. (emerson.b@leasing-greystar.com)
+- Liudvikas
+- challenge-advisors@breakthroughtech.org
 
 ## Firms and accounts
 
@@ -141,12 +151,19 @@ Never invent a name, company, figure, or detail not in my input.
 - InsurTech Association
 - Praxura
 - KatRisk
+- Einstein Bridge
+- The Averys
+- Greystar
+- Il Borgo
+- The Grand
+- Trinity Place
 
 ## Vendors and tools
 
 - LinkedIn
 - Vercel
 - Groupon
+- Google
 
 ## Shorthand I use
 
@@ -155,6 +172,8 @@ Never invent a name, company, figure, or detail not in my input.
 - CA = Community Advisors
 - ITC Vegas
 - ITC = InsurTech Conference/Event
+- API
+- CVS
 
 ## Do not touch
 
