@@ -15,7 +15,7 @@ personal blocks as less important or try to make them sound professional.
 - Call — any scheduled call or meeting with another person, work or personal, office hours, follow-up calls, 1-1.
 - Workout — gym, lifting, running, sports, physical training.
 - Content Creation — filming, editing, writing posts, scripting, shooting, drafting social media content (e.g., LinkedIn).
-- Self Care — grooming, therapy, meditation, laundry, errands, rest, personal admin, insurance claims, personal communication, dentist.
+- Self Care — grooming, therapy, meditation, laundry, errands, rest, personal admin, insurance claims, personal communication, dentist, accommodation search.
 - Hangout — social time with friends, dinners, parties, weddings, birthdays,
   going out, trips, vacations, Top Golf, accommodation.
 - Transit time — driving, flights, commutes, rides, travel between places (e.g., Doha, Dhaka).
@@ -125,6 +125,11 @@ Never invent a name, company, figure, or detail not in my input.
 - Emerson B. (emerson.b@leasing-greystar.com)
 - Liudvikas
 - challenge-advisors@breakthroughtech.org
+- Bennet
+- Krish
+- Bennett
+- Hitesh
+- Aditya
 
 ## Firms and accounts
 
@@ -157,6 +162,7 @@ Never invent a name, company, figure, or detail not in my input.
 - Il Borgo
 - The Grand
 - Trinity Place
+- 1900 Broadway
 
 ## Vendors and tools
 
