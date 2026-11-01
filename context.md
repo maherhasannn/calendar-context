@@ -61,6 +61,8 @@ Examples:
 - Escorted Tour at The Grand -> Hangout: Escorted Tour at The Grand — Duration
 - Escorted Tour at 1190 Mission at Trinity Place -> Hangout: Escorted Tour at Trinity Place — Duration
 - Liudvikas's birthday -> Hangout: Liudvikas's Birthday — All Day
+- Eli's birthday -> Hangout: Eli's Birthday — All Day
+- Intro call: Maher Hasan and Tom Beaulieu -> Call: Intro Call with Tom Beaulieu — Duration
 
 Apply this to every event, work and personal alike. Consistency across the
 whole calendar is the goal.
@@ -81,105 +83,111 @@ Never invent a name, company, figure, or detail not in my input.
 
 ## People
 
-- mmmaherhasan@gmail.com
-- Anish
-- Ashwin
-- Fiza
-- Madhav
-- Elwin
-- Caroline Virani
-- A. Tatterson (atatterson@kpmg.com)
-- Nelson Granados
-- Ananya Chadha
-- Jackie
-- Tate Arevalo (tate.arevalo@accenture.com)
-- Toby Sheung (toby.sheung@verizon.com)
-- Dhananjaya Ramachandra (dhananjaya.ramachandra@verizon.com)
 - A. Long (along@biointerphase.com)
-- Vikas Goyal (goyal3vikas@gmail.com)
+- A. Tatterson (atatterson@kpmg.com)
 - Abhinav Raghunathan (abhinavraghunathan@kpmg.com)
-- L. Saldana (lsaldana@estee.com)
-- Krystal Smuda (krystal.smuda@allstate.com)
-- Nicholas Lavigne (nicholas.lavigne@ursaspace.com)
+- Aditya
+- Ananya Chadha
+- Anish
+- Aarti Dwivedi (aartidwivedi@microsoft.com)
+- Ari Krause (arikrause@kpmg.com, krauseari@gmail.com)
+- Ashwin
+- Bennet
+- Bennett
+- Boardy AI (boardy@boardy.ai)
+- Caroline Virani
+- Chris C. (chrisc@theeinsteinbridge.com)
+- challenge-advisors@breakthroughtech.org
+- Danielle Golinski (danielle.golinski@wyndham.com)
+- Dhananjaya Ramachandra (dhananjaya.ramachandra@verizon.com)
+- Doroth Kelly
+- Eli
+- Elwin
+- Emerson B. (emerson.b@leasing-greystar.com)
+- Fiza
+- G. El (gel53@cornell.edu)
+- Hitesh
 - J. Buckne (bucknejo@oregonstate.edu)
 - J.C. Cook Jr. (jccookjr@gmail.com)
-- Julie (julie@swytch.careers)
-- Samuel Ogah (samuel.ogah@zicloudtech.com)
-- Neha (nrp.neha@gmail.com)
-- G. El (gel53@cornell.edu)
-- Parth Rana (parthrana34@gmail.com)
-- L. Culbertson (lculbertson@kpmg.com)
-- S. (s@hollywoodstudios.ai)
-- Ari Krause (arikrause@kpmg.com, krauseari@gmail.com)
-- Sebastian Avery (seb@theaverys.org.uk)
-- Simon Fan (simon.fan@pimco.com)
+- Jackie
 - Ji Zhang (ji.zhang@pimco.com)
-- Nancy Zhang (nancy.zhang@allstate.com)
-- M. Maksin (mmaksin@biointerphase.com)
-- Aarti Dwivedi (aartidwivedi@microsoft.com)
-- Seema Yadav (seema.yadav@wyndham.com)
-- Danielle Golinski (danielle.golinski@wyndham.com)
-- Scott
-- Doroth Kelly
-- Chris C. (chrisc@theeinsteinbridge.com)
-- Emerson B. (emerson.b@leasing-greystar.com)
-- Liudvikas
-- challenge-advisors@breakthroughtech.org
-- Bennet
+- Julie (julie@swytch.careers)
 - Krish
-- Bennett
-- Hitesh
-- Aditya
+- Krystal Smuda (krystal.smuda@allstate.com)
+- L. Culbertson (lculbertson@kpmg.com)
+- L. Saldana (lsaldana@estee.com)
+- Liudvikas
+- M. Maksin (mmaksin@biointerphase.com)
+- Madhav
+- Nancy Zhang (nancy.zhang@allstate.com)
+- Neha (nrp.neha@gmail.com)
+- Nelson Granados
+- Nicholas Lavigne (nicholas.lavigne@ursaspace.com)
+- Parker Malek (parker_malek@yahoo.com)
+- Parth Rana (parthrana34@gmail.com)
+- S. (s@hollywoodstudios.ai)
+- Samuel Ogah (samuel.ogah@zicloudtech.com)
+- Scott
+- Sebastian Avery (seb@theaverys.org.uk, sebastian.avery@accenture.com)
+- Seema Yadav (seema.yadav@wyndham.com)
+- Simon Fan (simon.fan@pimco.com)
+- Tate Arevalo (tate.arevalo@accenture.com)
+- Toby Sheung (toby.sheung@verizon.com)
+- Tom Beaulieu (tom@hudsongreenmedia.com)
+- Vikas Goyal (goyal3vikas@gmail.com)
+- mmmaherhasan@gmail.com
 
 ## Firms and accounts
 
-- Govia Systems
-- Breakthrough Tech
-- KPMG
-- Pepperdine University
-- Hypesonic
+- 1900 Broadway
 - Accenture
-- Verizon
-- Biointerphase
-- Estee
 - Allstate
-- Ursa Space
-- Oregon State
-- Swytch Careers
-- Zicloudtech
-- Hollywood Studios
-- Pimco
-- Microsoft
-- Wyndham
-- IA Capital
-- Nationwide
-- InsurTech Association
-- Praxura
-- KatRisk
+- Biointerphase
+- Boardy AI
+- Breakthrough Tech
+- Cornell
 - Einstein Bridge
-- The Averys
+- Estee
+- Govia Systems
 - Greystar
+- Hollywood Studios
+- Hudson Green Media
+- IA Capital
 - Il Borgo
+- InsurTech Association
+- KatRisk
+- KPMG
+- Microsoft
+- Nationwide
+- Oregon State
+- Pepperdine University
+- Pimco
+- Praxura
+- Swytch Careers
+- The Averys
 - The Grand
 - Trinity Place
-- 1900 Broadway
+- Ursa Space
+- Verizon
+- Wyndham
+- Zicloudtech
 
 ## Vendors and tools
 
+- Google
+- Groupon
 - LinkedIn
 - Vercel
-- Groupon
-- Google
 
 ## Shorthand I use
 
-- HC = Human Capital
-- ET
-- CA = Community Advisors
-- ITC Vegas
-- ITC = InsurTech Conference/Event
 - API
+- CA = Community Advisors
 - CVS
+- ET
+- HC = Human Capital
+- ITC = InsurTech Conference/Event
+- ITC Vegas
 
 ## Do not touch
 
