@@ -63,6 +63,9 @@ Examples:
 - Liudvikas's birthday -> Hangout: Liudvikas's Birthday — All Day
 - Eli's birthday -> Hangout: Eli's Birthday — All Day
 - Intro call: Maher Hasan and Tom Beaulieu -> Call: Intro Call with Tom Beaulieu — Duration
+- “OUTSIDE - The Escape” Opening Reception -> Hangout: "OUTSIDE - The Escape" Reception — Duration
+- You Can See Everything (Private Screening) -> Hangout: Private Screening — Duration
+- Ice Skating Session with The Safeway Holiday Ice Rink in Union Square -> Hangout: Ice Skating in Union Square — Duration
 
 Apply this to every event, work and personal alike. Consistency across the
 whole calendar is the goal.
@@ -92,7 +95,6 @@ Never invent a name, company, figure, or detail not in my input.
 - Aarti Dwivedi (aartidwivedi@microsoft.com)
 - Ari Krause (arikrause@kpmg.com, krauseari@gmail.com)
 - Ashwin
-- Bennet
 - Bennett
 - Boardy AI (boardy@boardy.ai)
 - Caroline Virani
@@ -111,6 +113,7 @@ Never invent a name, company, figure, or detail not in my input.
 - J.C. Cook Jr. (jccookjr@gmail.com)
 - Jackie
 - Ji Zhang (ji.zhang@pimco.com)
+- Jhona
 - Julie (julie@swytch.careers)
 - Krish
 - Krystal Smuda (krystal.smuda@allstate.com)
@@ -119,6 +122,7 @@ Never invent a name, company, figure, or detail not in my input.
 - Liudvikas
 - M. Maksin (mmaksin@biointerphase.com)
 - Madhav
+- Maher Hasan
 - Nancy Zhang (nancy.zhang@allstate.com)
 - Neha (nrp.neha@gmail.com)
 - Nelson Granados
@@ -130,6 +134,7 @@ Never invent a name, company, figure, or detail not in my input.
 - Scott
 - Sebastian Avery (seb@theaverys.org.uk, sebastian.avery@accenture.com)
 - Seema Yadav (seema.yadav@wyndham.com)
+- Shailesh
 - Simon Fan (simon.fan@pimco.com)
 - Tate Arevalo (tate.arevalo@accenture.com)
 - Toby Sheung (toby.sheung@verizon.com)
@@ -145,6 +150,7 @@ Never invent a name, company, figure, or detail not in my input.
 - Biointerphase
 - Boardy AI
 - Breakthrough Tech
+- Chase
 - Cornell
 - Einstein Bridge
 - Estee
@@ -163,10 +169,12 @@ Never invent a name, company, figure, or detail not in my input.
 - Pepperdine University
 - Pimco
 - Praxura
+- Safeway
 - Swytch Careers
 - The Averys
 - The Grand
 - Trinity Place
+- Union Square
 - Ursa Space
 - Verizon
 - Wyndham
