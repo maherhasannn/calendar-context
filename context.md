@@ -66,6 +66,9 @@ Examples:
 - “OUTSIDE - The Escape” Opening Reception -> Hangout: "OUTSIDE - The Escape" Reception — Duration
 - You Can See Everything (Private Screening) -> Hangout: Private Screening — Duration
 - Ice Skating Session with The Safeway Holiday Ice Rink in Union Square -> Hangout: Ice Skating in Union Square — Duration
+- Sierras bday!'s birthday -> Hangout: Sierra's Birthday — All Day
+- Kl Bhanu -> Call: Kl Bhanu — Duration
+- Ankit -> Call: Ankit — Duration
 
 Apply this to every event, work and personal alike. Consistency across the
 whole calendar is the goal.
@@ -92,6 +95,7 @@ Never invent a name, company, figure, or detail not in my input.
 - Aditya
 - Ananya Chadha
 - Anish
+- Ankit
 - Aarti Dwivedi (aartidwivedi@microsoft.com)
 - Ari Krause (arikrause@kpmg.com, krauseari@gmail.com)
 - Ashwin
@@ -115,6 +119,7 @@ Never invent a name, company, figure, or detail not in my input.
 - Ji Zhang (ji.zhang@pimco.com)
 - Jhona
 - Julie (julie@swytch.careers)
+- Kl Bhanu
 - Krish
 - Krystal Smuda (krystal.smuda@allstate.com)
 - L. Culbertson (lculbertson@kpmg.com)
@@ -135,6 +140,7 @@ Never invent a name, company, figure, or detail not in my input.
 - Sebastian Avery (seb@theaverys.org.uk, sebastian.avery@accenture.com)
 - Seema Yadav (seema.yadav@wyndham.com)
 - Shailesh
+- Sierra
 - Simon Fan (simon.fan@pimco.com)
 - Tate Arevalo (tate.arevalo@accenture.com)
 - Toby Sheung (toby.sheung@verizon.com)
@@ -178,6 +184,7 @@ Never invent a name, company, figure, or detail not in my input.
 - Ursa Space
 - Verizon
 - Wyndham
+- YMCA
 - Zicloudtech
 
 ## Vendors and tools
