@@ -175,6 +175,7 @@ Never invent a name, company, figure, or detail not in my input.
 - Pepperdine University
 - Pimco
 - Praxura
+- SAM.gov
 - Safeway
 - Swytch Careers
 - The Averys
@@ -198,6 +199,7 @@ Never invent a name, company, figure, or detail not in my input.
 
 - API
 - CA = Community Advisors
+- CoP = Community of Practice
 - CVS
 - ET
 - HC = Human Capital
